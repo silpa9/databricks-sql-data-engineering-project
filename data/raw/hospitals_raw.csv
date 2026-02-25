@@ -1,0 +1,101 @@
+hospital_id,hospital_name,city,state,bed_capacity
+H001,Lewis-Johnson Hospital,Port Kathleen,Florida,171
+H002,"Bishop, Martin and Hobbs Hospital",Port Andrebury,California,619
+H003,Robbins Ltd Hospital,North Robert,Florida,92
+H004,"Johnson, Griffin and Sanchez Hospital",Davidshire,California,102
+H005,Garcia-Monroe Hospital,New Jamesbury,Texas,504
+H006,Little-Page Hospital,East Josephberg,Illinois,84
+H007,Gross-Campbell Hospital,Charlesfort,Texas,938
+H008,Bates PLC Hospital,East Matthewstad,Florida,263
+H009,Hunt-Hawkins Hospital,South Michellebury,Texas,744
+H010,Keller Ltd Hospital,Adamsville,Illinois,56
+H011,Phillips and Sons Hospital,Jamesburgh,Illinois,715
+H012,"Nguyen, Lopez and Hines Hospital",Jonestown,Texas,555
+H013,"White, Howard and Schultz Hospital",Lindachester,New York,529
+H014,Quinn-Stewart Hospital,East Melissaborough,California,904
+H015,"Serrano, Cooper and Gross Hospital",East Kathleenport,Texas,305
+H016,Simmons-Coleman Hospital,West Mary,Texas,739
+H017,"Turner, Richardson and Terrell Hospital",East Robert,Florida,688
+H018,Francis LLC Hospital,West Tracey,New York,905
+H019,"Campbell, Moss and Collins Hospital",West Calvinport,California,413
+H020,"Roberts, Williams and Moreno Hospital",South Biancafort,Texas,81
+H021,"Maxwell, Sanders and Hicks Hospital",Port Roberttown,Texas,912
+H022,"Maxwell, Miller and Green Hospital",Shelbytown,New York,907
+H023,Simmons PLC Hospital,Port Paul,Illinois,255
+H024,"Washington, White and Dixon Hospital",New Jacobstad,Florida,167
+H025,Williams-Price Hospital,Nicholaschester,New York,70
+H026,Rojas-Barker Hospital,Brownbury,Florida,833
+H027,"Hess, Perkins and Black Hospital",Frankland,New York,712
+H028,Richardson-Carson Hospital,West Jasmine,Texas,848
+H029,"Ortega, Mendoza and Martinez Hospital",South Robertberg,Illinois,926
+H030,Hart-Gross Hospital,Brianhaven,California,778
+H031,"Taylor, Miller and Guzman Hospital",West Michael,California,975
+H032,Obrien-Burke Hospital,South Amyview,Florida,558
+H033,"Dixon, Lindsey and Hoffman Hospital",Mckinneyfort,Illinois,624
+H034,Ford-Burgess Hospital,Parkerside,California,722
+H035,Craig and Sons Hospital,Housefurt,California,355
+H036,Lee Ltd Hospital,Amyshire,Texas,196
+H037,"Frank, Davis and Bass Hospital",Courtneyfort,Florida,928
+H038,"Cooper, Chandler and Graham Hospital",Wendymouth,California,508
+H039,"Smith, Nelson and Crawford Hospital",Hoodberg,New York,727
+H040,"Miller, Gonzales and Reynolds Hospital",Tinahaven,Texas,224
+H041,"Griffin, Barnes and Jackson Hospital",East Theresatown,California,469
+H042,Gordon-Sanchez Hospital,Rodriguezfurt,Texas,810
+H043,Howard-Rodriguez Hospital,Chungmouth,Florida,196
+H044,Carpenter-Mendoza Hospital,Nathanton,California,937
+H045,Kelly-Larsen Hospital,Andersonhaven,Illinois,394
+H046,Moore Group Hospital,Lake Erichaven,Texas,506
+H047,"Watson, Turner and Rodriguez Hospital",Tracychester,New York,587
+H048,"Thomas, Morales and Clark Hospital",Pottsberg,Florida,762
+H049,Edwards-Cherry Hospital,Deniseton,New York,923
+H050,Morris Ltd Hospital,Danielchester,Illinois,853
+H051,"Scott, Hughes and Burke Hospital",Lake Jenniferberg,Illinois,565
+H052,Evans Ltd Hospital,South Calebside,Florida,612
+H053,Cook and Sons Hospital,West Sean,New York,362
+H054,"Brown, Gonzalez and Martin Hospital",Alanmouth,California,929
+H055,James-Caldwell Hospital,Smithchester,Texas,609
+H056,"Perez, Chung and Wilson Hospital",Holmesbury,New York,231
+H057,Kim Inc Hospital,Gibbsburgh,Texas,999
+H058,Miller PLC Hospital,East Pamela,Florida,692
+H059,"Perkins, Sanders and Short Hospital",West Brittney,Illinois,997
+H060,"Roberts, Fernandez and Bird Hospital",Melendezland,New York,999
+H061,Oconnor-Thompson Hospital,Jonesfort,Texas,584
+H062,Mays-Patterson Hospital,Katrinafurt,Texas,874
+H063,Richard Inc Hospital,Martinchester,Texas,943
+H064,Paul-Harris Hospital,Jeffreyton,Texas,932
+H065,Anderson PLC Hospital,North Davidhaven,Texas,222
+H066,"Garcia, Delgado and Oliver Hospital",Coreybury,Illinois,824
+H067,Brown Inc Hospital,Hawkinsfort,New York,959
+H068,Mcclure-Morris Hospital,South Michael,Illinois,835
+H069,"Taylor, Young and Wilson Hospital",Wernerland,Illinois,521
+H070,Hutchinson Group Hospital,Christopherborough,Illinois,934
+H071,Anderson Inc Hospital,New Natalie,California,634
+H072,Jackson Ltd Hospital,Lisashire,Illinois,830
+H073,Walker Group Hospital,Douglaschester,California,993
+H074,Mcconnell LLC Hospital,Ricetown,Texas,220
+H075,"Brown, Whitney and Phillips Hospital",North John,Florida,626
+H076,"Nguyen, Levy and Guerrero Hospital",Horneville,New York,726
+H077,Gardner PLC Hospital,Daleshire,Texas,773
+H078,"Hale, Doyle and Coleman Hospital",Port Kevin,Florida,270
+H079,"Ford, Benjamin and Benson Hospital",Perezland,Texas,235
+H080,Duran Ltd Hospital,East Ruth,Florida,361
+H081,"Fisher, Hill and Meyer Hospital",Charlesburgh,Illinois,818
+H082,Nolan LLC Hospital,Lake Ashleemouth,Texas,668
+H083,Holland Ltd Hospital,North Stephanie,New York,112
+H084,"Brown, Strickland and Collins Hospital",Turnerbury,Illinois,-50
+H085,Foster and Sons Hospital,New Elizabeth,California,599
+H086,Ryan and Sons Hospital,New Patriciafurt,Texas,464
+H087,Kelly-Alvarado Hospital,West Scott,Florida,739
+H088,Marsh Inc Hospital,Port Johnathanton,New York,796
+H089,Holland and Sons Hospital,South Robertmouth,Texas,735
+H090,Adams Group Hospital,North Tiffany,Illinois,769
+H091,Torres and Sons Hospital,Sheilabury,Florida,848
+H092,Anderson PLC Hospital,New Michelle,Texas,63
+H093,Huynh LLC Hospital,New Heatherport,New York,286
+H094,Hamilton and Sons Hospital,South Lisa,Illinois,562
+H095,Singleton-Peterson Hospital,New Michaelburgh,Florida,363
+H096,Wilkinson-Pittman Hospital,Helenland,Florida,515
+H097,"Huffman, Farmer and Walker Hospital",New Gregoryfort,California,769
+H098,"Hernandez, Grimes and Suarez Hospital",Jennifershire,Illinois,275
+H099,Hogan Ltd Hospital,Lindseystad,Illinois,666
+H100,Oconnell-Finley Hospital,Gomezfurt,Texas,877

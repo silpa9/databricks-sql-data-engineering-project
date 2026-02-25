@@ -1,0 +1,121 @@
+drug_id,drug_name,manufacturer,drug_class,approval_date,price
+D0001,Key,"Waller, Casey and Mcneil",Diabetes,2017-05-21,370.47
+D0002,Current,"Lynch, Walker and Stewart",Antibiotic,2011-01-10,414.21
+D0003,Indicate,Wells-Mack,Pain Relief,2021-02-02,250.32
+D0004,Rock,Phillips-King,Cardiology,2013-06-09,212.62
+D0005,Peace,Charles Ltd,Cardiology,2019-04-25,268.86
+D0006,Change,"Leonard, Ward and Bowen",Diabetes,2012-01-10,397.62
+D0007,Behind,Pennington Inc,Oncology,2011-01-06,294.01
+D0008,Executive,Holmes-Perez,Antibiotic,2021-12-03,418.55
+D0009,Be,"Burns, Davila and Myers",Oncology,2018-08-24,282.5
+D0010,Rather,Harrison-Williams,Pain Relief,2013-09-24,344.83
+D0011,Thought,"Newton, Adams and Hanson",Pain Relief,2013-05-03,380.36
+D0012,Always,Lin Inc,Diabetes,2019-11-29,279.64
+D0013,Opportunity,Johnson and Sons,Cardiology,2018-06-24,321.12
+D0014,Site,Jefferson LLC,Cardiology,2021-12-12,158.87
+D0015,Real,"White, Brown and Lee",Oncology,2022-11-03,265.39
+D0016,New,Adkins LLC,Cardiology,2020-10-23,45.42
+D0017,Goal,Salazar Inc,Diabetes,2020-10-01,352.39
+D0018,Total,"Perry, Williams and Burns",Pain Relief,2021-02-22,349.66
+D0019,Cold,Russell-Smith,Diabetes,2010-03-28,295.66
+D0020,Leg,Brown-Smith,Cardiology,2015-12-26,182.19
+D0021,Free,"Randall, Allen and Spencer",Pain Relief,2019-08-10,336.66
+D0022,Those,Jones-Wilson,Antibiotic,2017-07-26,373.42
+D0023,Security,Salinas and Sons,Oncology,2015-11-30,143.06
+D0024,Suggest,"Wagner, Bell and Adams",Diabetes,2014-10-03,358.71
+D0025,Next,"Barber, Wall and Wilson",Pain Relief,2015-08-14,-10.0
+D0026,Contain,Fisher-Rojas,Diabetes,2019-07-30,100.29
+D0027,Report,"Zuniga, Campos and Butler",Diabetes,2012-04-29,291.8
+D0028,Kid,Morrow-Bender,Pain Relief,2018-02-03,433.16
+D0029,Worker,"Stewart, Bridges and Williams",Antibiotic,2010-10-16,288.91
+D0030,Business,Flynn-Choi,Oncology,2022-03-10,471.2
+D0031,Four,Johnson and Sons,Pain Relief,2013-02-08,369.05
+D0032,Difference,"Melton, Williams and Rivas",Cardiology,2015-08-16,218.91
+D0033,Pattern,Douglas Group,Oncology,2020-11-06,46.7
+D0034,Base,Williams-Harris,Diabetes,2010-10-02,73.76
+D0035,Anything,"Mendez, Bird and Lindsey",Pain Relief,2016-05-26,380.74
+D0036,Sing,"Hanson, Walsh and Peterson",Oncology,2014-04-18,416.72
+D0037,Daughter,"Acosta, Johnston and Jones",Oncology,2015-07-16,25.72
+D0038,Decide,Kelly-Jones,Antibiotic,2019-06-05,321.7
+D0039,And,Davis PLC,Cardiology,2017-06-18,356.39
+D0040,Same,Mendez-Lynch,Pain Relief,2022-10-23,158.25
+D0041,Budget,Sanford-Hernandez,Cardiology,2019-10-18,202.58
+D0042,Institution,"Preston, Molina and Hatfield",Cardiology,2020-07-28,300.14
+D0043,Type,Newton-Moore,Pain Relief,2010-08-28,-10.0
+D0044,Look,"Tran, Fuller and Mendez",Pain Relief,2020-09-26,440.22
+D0045,Responsibility,Dougherty-Hughes,Diabetes,2015-12-27,267.88
+D0046,Arrive,"Marquez, Evans and Shah",Antibiotic,2022-08-26,158.76
+D0047,Cut,"Thompson, Padilla and Adams",Cardiology,2021-03-05,172.08
+D0048,Blood,Jenkins Inc,Cardiology,2022-06-05,44.72
+D0049,Feeling,"Berry, Wang and Smith",Diabetes,2012-09-09,257.13
+D0050,Education,"Hernandez, Hammond and Cooley",Cardiology,2014-07-31,224.67
+D0051,Music,"Butler, Greer and Thomas",Pain Relief,2010-11-07,67.22
+D0052,Police,Herrera-Alexander,Pain Relief,2017-06-29,15.52
+D0053,Discuss,Mccarthy-Williams,Cardiology,2021-09-15,305.92
+D0054,Heavy,Fuller-Ford,Oncology,2017-12-15,321.01
+D0055,List,Buckley LLC,Antibiotic,2019-12-15,20.13
+D0056,Pattern,"Watson, Smith and Hernandez",Antibiotic,2014-07-09,19.41
+D0057,Job,"George, Johnson and Shepherd",Oncology,2011-05-08,199.56
+D0058,Less,Reynolds-Hall,Pain Relief,2017-10-24,473.73
+D0059,Also,Hamilton Inc,Cardiology,2016-02-04,215.05
+D0060,Attention,Ruiz LLC,Antibiotic,2011-10-18,499.59
+D0061,Despite,Pittman Inc,Diabetes,2021-10-20,385.55
+D0062,Son,"Acosta, Mack and Hernandez",Pain Relief,2021-04-03,257.62
+D0063,Study,Garcia Ltd,Antibiotic,2020-07-12,271.87
+D0064,Stay,Mccormick-Garcia,Cardiology,2021-06-21,429.36
+D0065,Teach,Harmon PLC,Cardiology,2022-06-12,106.19
+D0066,Lose,"Leonard, Moreno and Parrish",Cardiology,2020-10-19,486.15
+D0067,Class,"Powers, Collins and Pruitt",Pain Relief,2020-09-27,160.04
+D0068,True,Frazier-Garcia,Cardiology,2015-10-21,86.95
+D0069,This,"Fernandez, Parker and Blackburn",Pain Relief,2012-03-14,252.64
+D0070,Consider,Hawkins and Sons,Oncology,2011-08-04,276.2
+D0071,Including,Jacobson-Gordon,Diabetes,2017-05-29,66.88
+D0072,Interesting,Dunn and Sons,Pain Relief,2022-06-20,25.04
+D0073,Although,Mccoy-Smith,Cardiology,2015-09-25,324.23
+D0074,Treat,"Ali, Benson and Miller",Oncology,2019-05-31,352.65
+D0075,Address,"Sullivan, Glover and Clayton",Pain Relief,2019-06-19,427.28
+D0076,Single,Powers PLC,Antibiotic,2022-06-11,442.84
+D0077,Name,Roberts-Johnson,Cardiology,2016-03-11,426.4
+D0078,Chance,Santos PLC,Cardiology,2018-02-24,372.47
+D0079,Far,Evans-Brewer,Pain Relief,2017-08-01,64.83
+D0080,Few,"Scott, Kirk and Newton",Cardiology,2022-01-03,160.27
+D0081,Let,Terry Inc,Diabetes,2016-06-15,53.83
+D0082,Defense,Ware-Vazquez,Pain Relief,2022-06-19,416.71
+D0083,Worry,Ray Ltd,Pain Relief,2011-02-14,28.41
+D0084,Save,"Aguilar, Cowan and Wilson",Antibiotic,2015-04-08,252.23
+D0085,Project,Morgan PLC,Diabetes,2013-09-25,15.84
+D0086,Continue,"Walker, Rivera and Nunez",Pain Relief,2013-04-06,464.38
+D0087,Themselves,"Smith, Jones and Lang",Cardiology,2013-02-05,64.82
+D0088,Central,Goodwin Ltd,Diabetes,2014-05-24,63.17
+D0089,Body,"Walker, Ortega and Wilson",Oncology,2012-09-27,138.26
+D0090,Push,Cook-Taylor,Cardiology,2022-09-13,231.58
+D0091,Mission,"Walker, Whitehead and Roy",Diabetes,2017-06-05,121.81
+D0092,Field,"Armstrong, Johnson and Mclaughlin",Antibiotic,2012-01-31,226.58
+D0093,Simple,Villanueva Inc,Oncology,2012-06-14,259.87
+D0094,This,Andrade-Smith,Antibiotic,2015-01-19,299.1
+D0095,Outside,Cannon PLC,Cardiology,2020-10-03,69.58
+D0096,Hard,Neal Ltd,Oncology,2022-12-20,451.45
+D0097,Dark,Glover Inc,Cardiology,2014-07-25,355.59
+D0098,Suddenly,"Hanson, Carr and Escobar",Pain Relief,2015-12-05,228.95
+D0099,Happy,Cummings Group,Antibiotic,2020-06-15,389.66
+D0100,Trade,Moore and Sons,Diabetes,2012-08-29,479.13
+D0101,Quickly,"Dunn, Nixon and Galvan",Diabetes,2012-04-02,375.46
+D0102,Such,"Reyes, Bell and Gray",Pain Relief,2014-09-14,357.73
+D0103,Mouth,Banks-Reed,Pain Relief,2016-09-21,97.2
+D0104,Some,Morris PLC,Pain Relief,2010-10-22,375.66
+D0105,Seat,Jones PLC,Oncology,2010-09-05,412.75
+D0106,Speak,Washington and Sons,Cardiology,2018-02-04,458.09
+D0107,Big,Thompson-Smith,Diabetes,2018-08-17,416.44
+D0108,Mouth,Pacheco PLC,Pain Relief,2021-10-20,268.62
+D0109,Song,Espinoza-Taylor,Cardiology,2022-12-25,333.85
+D0110,Third,"Wilson, Carpenter and Dyer",Pain Relief,2021-01-12,317.3
+D0111,Mrs,Neal-Petty,Diabetes,2011-01-24,388.99
+D0112,Blue,"Hicks, Gonzalez and Pruitt",Oncology,2021-01-15,489.05
+D0113,Dog,"Taylor, Hall and Evans",Antibiotic,2014-06-15,109.46
+D0114,Western,"Cooper, Pugh and Moreno",Oncology,2019-12-06,34.01
+D0115,Law,Cook-Thomas,Diabetes,2020-09-13,78.17
+D0116,Also,Sullivan-Cole,Oncology,2016-12-21,17.02
+D0117,Provide,"Cohen, Johnson and Cooke",Pain Relief,2015-08-17,84.13
+D0118,Century,"Jimenez, Thomas and Cohen",Diabetes,2012-02-04,487.1
+D0119,Figure,"Perez, Wilson and Jones",Cardiology,2016-06-23,478.22
+D0120,Card,Hall-Taylor,Cardiology,2012-06-07,301.49

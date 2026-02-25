@@ -1,0 +1,501 @@
+doctor_id,name,specialty,hospital_id,years_experience,consultation_fee
+DR0001,Yvonne Medina,Diabetes,H036,5,229
+DR0002,Tanner Keller,Antibiotic,H083,6,-300
+DR0003,Roberto Ferguson,Pain Relief,H073,11,216
+DR0004,Frank Fisher,Diabetes,H038,27,138
+DR0005,Jill Moore,Antibiotic,H021,24,254
+DR0006,Darryl Peterson,Pain Relief,H029,23,418
+DR0007,Alicia Kim,Pain Relief,H076,21,190
+DR0008,John Campbell,Diabetes,H039,34,282
+DR0009,Benjamin Ward,Oncology,H085,1,430
+DR0010,Stephanie Osborne,Cardiology,H078,30,74
+DR0011,Brett Harris,Antibiotic,H088,30,131
+DR0012,Alex Fowler,Diabetes,H070,26,446
+DR0013,Travis Hubbard,Pain Relief,H018,33,243
+DR0014,Miss Heather Scott DVM,Oncology,H006,27,217
+DR0015,Paul Williams,Oncology,H029,19,115
+DR0016,Tiffany Bowers,Diabetes,H030,2,-300
+DR0017,Ryan Graham,Diabetes,H007,8,104
+DR0018,Matthew Harris,Diabetes,H050,16,457
+DR0019,Jeremy Sanders,Pain Relief,H053,33,176
+DR0020,Lindsay Parker,Antibiotic,H054,34,202
+DR0021,Johnny Carr,Oncology,H095,33,257
+DR0022,Susan Robertson,Diabetes,H074,6,113
+DR0023,Tiffany Kim,Cardiology,H077,1,143
+DR0024,Jacob Clark,Antibiotic,H005,21,180
+DR0025,Emily Blackburn PhD,Oncology,H098,16,264
+DR0026,Cheryl Jones,Oncology,H090,17,261
+DR0027,Mark Browning,Antibiotic,H097,40,181
+DR0028,Melissa Gonzales,Cardiology,H092,5,183
+DR0029,Adam Collins,Cardiology,H079,40,57
+DR0030,Matthew Lara,Oncology,H027,3,376
+DR0031,Cynthia Moses,Cardiology,H044,7,167
+DR0032,William Alexander,Antibiotic,H014,3,373
+DR0033,Justin Howard,Oncology,H036,28,-300
+DR0034,David Jensen,Antibiotic,H030,35,183
+DR0035,Dr. Karen Brown,Diabetes,H019,34,345
+DR0036,Christopher Anderson,Cardiology,H040,17,208
+DR0037,Catherine Fisher,Antibiotic,H074,3,427
+DR0038,Daniel Barnett,Oncology,H082,32,406
+DR0039,Meredith Ford,Pain Relief,H008,22,378
+DR0040,Diana Andrade,Diabetes,H014,33,187
+DR0041,Scott Barr,Antibiotic,H046,3,358
+DR0042,Kristen Hamilton,Pain Relief,H021,7,-300
+DR0043,Jeffrey Swanson,Cardiology,H088,1,221
+DR0044,Amanda Lee,Antibiotic,H091,31,216
+DR0045,Elizabeth Ashley,Oncology,H099,33,415
+DR0046,Joshua Eaton,Cardiology,H100,29,371
+DR0047,Jeffrey Ward,Pain Relief,H091,37,364
+DR0048,Yvonne Williamson,Diabetes,H005,16,78
+DR0049,Stephen Jacobs,Oncology,H100,33,353
+DR0050,Tina Bryan,Cardiology,H089,7,103
+DR0051,Heidi Reyes,Antibiotic,H003,40,479
+DR0052,Douglas Rodriguez,Oncology,H076,21,349
+DR0053,Mary Barnes,Pain Relief,H009,14,499
+DR0054,Lee Knox,Diabetes,H077,2,180
+DR0055,Amber Young,Antibiotic,H073,7,273
+DR0056,Kelly Gibson,Oncology,H028,27,474
+DR0057,Tracy Reyes,Antibiotic,H004,30,89
+DR0058,Jamie Jordan,Antibiotic,H062,1,252
+DR0059,Tara Jackson,Pain Relief,H080,8,144
+DR0060,Carrie Gonzalez,Cardiology,H061,31,483
+DR0061,Ebony Stevens,Diabetes,H051,35,174
+DR0062,Kyle Gonzalez,Antibiotic,H069,5,384
+DR0063,Bruce Cantrell,Diabetes,H065,38,80
+DR0064,Christopher Rosales,Pain Relief,H055,15,198
+DR0065,Stephanie Park,Oncology,H048,9,87
+DR0066,Amy Johnston,Antibiotic,H049,32,389
+DR0067,Brandon Obrien,Cardiology,H042,20,326
+DR0068,Jordan Parker,Antibiotic,H086,25,112
+DR0069,Sergio Gibson,Cardiology,H046,14,355
+DR0070,Nicholas Russell,Oncology,H019,20,197
+DR0071,Jeremy Clay,Pain Relief,H099,40,121
+DR0072,Stephen Key,Pain Relief,H056,37,260
+DR0073,Melissa Greene,Antibiotic,H079,37,278
+DR0074,Elizabeth Thompson,Antibiotic,H072,12,-300
+DR0075,Paul Castro,Cardiology,H052,1,307
+DR0076,Jessica Doyle,Diabetes,H064,38,183
+DR0077,Christopher Dean,Antibiotic,H035,3,493
+DR0078,Brent Forbes,Antibiotic,H006,14,198
+DR0079,Lawrence Taylor,Cardiology,H001,16,332
+DR0080,Sherry Carney,Cardiology,H048,23,85
+DR0081,Claire Barron,Antibiotic,H007,5,298
+DR0082,Jack Stone,Antibiotic,H065,20,325
+DR0083,Chelsea Powell,Pain Relief,H024,17,363
+DR0084,Dr. Priscilla Jackson,Pain Relief,H038,15,227
+DR0085,Wendy Williams,Diabetes,H006,10,127
+DR0086,Jessica Thomas,Diabetes,H026,37,454
+DR0087,Ryan Burgess,Oncology,H035,4,443
+DR0088,Olivia Mccormick,Cardiology,H030,13,176
+DR0089,John Edwards,Oncology,H063,11,441
+DR0090,Kimberly Campbell,Cardiology,H017,8,370
+DR0091,John Beck,Oncology,H082,31,355
+DR0092,Jennifer Santos,Cardiology,H042,19,168
+DR0093,Joshua Pennington,Antibiotic,H056,4,340
+DR0094,Brett Lee,Antibiotic,H053,18,279
+DR0095,Collin Solomon,Oncology,H027,19,298
+DR0096,Logan Rivera,Pain Relief,H029,17,424
+DR0097,Patrick Crawford,Pain Relief,H059,22,319
+DR0098,Hannah Mejia,Antibiotic,H077,34,104
+DR0099,Maria Li,Oncology,H066,15,478
+DR0100,David Wells,Pain Relief,H061,16,125
+DR0101,Dana Wilson,Diabetes,H095,4,257
+DR0102,Andrew Clark,Pain Relief,H067,10,86
+DR0103,Caitlyn Silva,Cardiology,H079,22,469
+DR0104,Nicholas Figueroa,Pain Relief,H032,15,369
+DR0105,Michael Aguilar,Pain Relief,H093,25,141
+DR0106,Leah Humphrey,Oncology,H041,8,471
+DR0107,Christine Davis,Cardiology,H090,4,88
+DR0108,Matthew Morris,Cardiology,H041,7,472
+DR0109,Patricia Haas,Diabetes,H022,27,160
+DR0110,Gregory Beasley,Diabetes,H049,22,128
+DR0111,Nicole Walker,Oncology,H093,40,311
+DR0112,Claire Davis,Cardiology,H043,10,364
+DR0113,Samantha Alvarez,Oncology,H070,35,67
+DR0114,David Williams,Diabetes,H049,30,122
+DR0115,Bobby Kaiser,Diabetes,H065,33,398
+DR0116,Kari Glenn,Pain Relief,H052,37,241
+DR0117,Melissa Mcclain,Pain Relief,H039,33,195
+DR0118,Kaitlyn Casey,Cardiology,H068,34,494
+DR0119,Gregory Green,Pain Relief,H011,30,459
+DR0120,Dana Tapia,Antibiotic,H051,27,-300
+DR0121,Jacqueline Yates,Oncology,H046,34,100
+DR0122,Tracy Smith,Antibiotic,H014,34,-300
+DR0123,Tyler Jones,Cardiology,H028,27,275
+DR0124,Aaron Clarke,Diabetes,H002,5,210
+DR0125,Patty House,Antibiotic,H051,39,265
+DR0126,Tammie Nelson,Oncology,H083,29,103
+DR0127,Nicole Figueroa,Oncology,H076,36,143
+DR0128,Deborah Garcia,Pain Relief,H035,12,470
+DR0129,Jeffery Scott,Diabetes,H017,33,465
+DR0130,Wesley Brown,Diabetes,H099,21,358
+DR0131,Jerry Burke,Cardiology,H034,16,467
+DR0132,Adrienne James,Pain Relief,H033,12,68
+DR0133,Maria Skinner,Antibiotic,H030,26,252
+DR0134,Brian Frey,Oncology,H014,23,148
+DR0135,Krista Krause,Oncology,H083,15,171
+DR0136,Monica Garner,Oncology,H042,15,61
+DR0137,Marissa Pacheco,Cardiology,H022,21,95
+DR0138,Victor Webster,Antibiotic,H048,19,362
+DR0139,Steven Williams,Antibiotic,H077,6,408
+DR0140,Derrick Tyler,Diabetes,H045,37,288
+DR0141,Thomas Shaffer,Pain Relief,H036,27,214
+DR0142,Mackenzie Grimes,Cardiology,H061,10,472
+DR0143,Rachel Hunt,Cardiology,H019,29,310
+DR0144,Mrs. Elizabeth Robinson,Pain Relief,H020,32,107
+DR0145,Kevin Lopez,Cardiology,H078,35,137
+DR0146,James Pena,Diabetes,H031,15,410
+DR0147,Glenn Medina,Oncology,H045,40,158
+DR0148,Richard Page MD,Antibiotic,H009,16,461
+DR0149,Susan Sims,Diabetes,H001,10,232
+DR0150,Molly Holloway,Antibiotic,H080,28,116
+DR0151,Heather Fowler,Antibiotic,H086,2,100
+DR0152,William Smith,Diabetes,H069,3,67
+DR0153,Janet Holmes,Oncology,H089,5,332
+DR0154,Sarah Ross,Pain Relief,H035,35,281
+DR0155,Dana Nelson,Pain Relief,H032,15,330
+DR0156,Michelle Smith,Cardiology,H073,33,410
+DR0157,Donald Garcia,Diabetes,H047,20,342
+DR0158,Nathan Johnson,Oncology,H083,26,67
+DR0159,Corey Yu,Antibiotic,H004,22,452
+DR0160,David West,Diabetes,H018,39,252
+DR0161,Eric Washington,Pain Relief,H079,22,55
+DR0162,David Martin,Cardiology,H043,32,55
+DR0163,Debbie Lopez,Oncology,H001,28,400
+DR0164,James Wright,Antibiotic,H022,10,409
+DR0165,Sarah Hines,Diabetes,H099,11,358
+DR0166,Brandi Sanders,Diabetes,H066,26,-300
+DR0167,Anna Watkins,Cardiology,H017,13,213
+DR0168,Stanley Beck,Pain Relief,H089,17,211
+DR0169,Joseph Deleon,Pain Relief,H034,6,128
+DR0170,Jay Taylor DVM,Oncology,H056,11,318
+DR0171,Terry Taylor,Diabetes,H040,22,446
+DR0172,Larry Chambers V,Pain Relief,H060,12,425
+DR0173,Madison Nash,Cardiology,H032,40,279
+DR0174,Andre Davis,Cardiology,H014,33,133
+DR0175,Claudia Abbott,Diabetes,H086,38,67
+DR0176,Joshua Barrett,Pain Relief,H005,30,163
+DR0177,Daniel Hall,Oncology,H099,30,190
+DR0178,Nathaniel Marsh,Cardiology,H030,9,477
+DR0179,Shawn Molina,Oncology,H016,21,93
+DR0180,Stephen Walker,Antibiotic,H031,13,500
+DR0181,Raymond Harris,Cardiology,H059,9,274
+DR0182,Maria Sims,Pain Relief,H092,32,455
+DR0183,Tyler Swanson,Oncology,H083,39,422
+DR0184,Jessica Gamble,Oncology,H054,2,300
+DR0185,Mrs. Rebekah Mooney,Cardiology,H045,2,238
+DR0186,Sandra Hale,Cardiology,H077,9,119
+DR0187,Theresa Davis,Oncology,H066,14,-300
+DR0188,Justin Cook,Diabetes,H043,5,252
+DR0189,Benjamin Murphy,Diabetes,H036,23,284
+DR0190,Stephen Harris,Oncology,H084,10,385
+DR0191,Jacob Wilson,Oncology,H056,37,242
+DR0192,Melvin Flores,Diabetes,H037,20,398
+DR0193,Heather Martinez,Diabetes,H021,36,147
+DR0194,Christopher Castro,Diabetes,H010,13,148
+DR0195,Jamie Taylor,Antibiotic,H027,12,54
+DR0196,Austin Baker,Oncology,H039,36,114
+DR0197,Madison Medina,Cardiology,H002,18,-300
+DR0198,Victoria Wood,Oncology,H036,26,231
+DR0199,Amanda Davis,Diabetes,H064,39,466
+DR0200,Rachel Chen,Cardiology,H064,10,481
+DR0201,Valerie Cain,Diabetes,H026,17,297
+DR0202,Joshua Montes,Cardiology,H034,35,289
+DR0203,Anthony Davis,Oncology,H031,32,455
+DR0204,Lisa Garrett,Diabetes,H082,36,246
+DR0205,Danielle Faulkner,Oncology,H074,39,468
+DR0206,David Williams,Oncology,H072,11,207
+DR0207,Sarah Lin,Antibiotic,H045,37,432
+DR0208,Christopher Sutton,Pain Relief,H071,32,248
+DR0209,Karen Moses,Pain Relief,H033,7,272
+DR0210,Sandra Vargas,Cardiology,H065,29,171
+DR0211,Kevin Howell,Diabetes,H029,22,97
+DR0212,Sandra Smith,Cardiology,H051,37,443
+DR0213,Chelsea Stevenson,Pain Relief,H024,17,159
+DR0214,Brian Doyle,Oncology,H098,25,431
+DR0215,Blake Cox,Oncology,H052,25,394
+DR0216,Meagan Anderson,Oncology,H052,27,393
+DR0217,Shane Bruce,Cardiology,H064,28,55
+DR0218,Barbara Graham,Oncology,H011,16,381
+DR0219,Susan Hutchinson,Antibiotic,H015,10,423
+DR0220,Jason Gomez,Oncology,H091,34,285
+DR0221,Anna Lewis,Antibiotic,H077,20,478
+DR0222,Danny Mcdowell,Pain Relief,H037,20,369
+DR0223,Michelle Simpson,Oncology,H075,21,134
+DR0224,Luis Anderson,Cardiology,H048,31,164
+DR0225,Taylor Allen,Oncology,H080,19,499
+DR0226,Raymond Wang,Antibiotic,H040,18,92
+DR0227,Lisa George,Cardiology,H023,10,355
+DR0228,Patrick Foley,Oncology,H009,35,130
+DR0229,Cindy Avila,Pain Relief,H077,29,428
+DR0230,Lance Kennedy,Cardiology,H049,21,242
+DR0231,Richard Skinner,Pain Relief,H078,8,-300
+DR0232,William Lozano,Pain Relief,H057,28,208
+DR0233,Dennis Duffy,Oncology,H060,18,359
+DR0234,Angelica Jackson,Cardiology,H008,20,333
+DR0235,Monica Young,Antibiotic,H099,37,423
+DR0236,Ashley Robinson,Cardiology,H092,10,72
+DR0237,Mary Fisher,Pain Relief,H019,11,242
+DR0238,Sarah Burke,Pain Relief,H100,16,180
+DR0239,Krystal Smith,Antibiotic,H035,39,208
+DR0240,Robert Hunt,Oncology,H059,21,280
+DR0241,Timothy Rodriguez,Cardiology,H048,22,137
+DR0242,Ronald Brown,Diabetes,H082,20,89
+DR0243,Jason Garcia,Antibiotic,H018,38,364
+DR0244,Deanna Rivera,Diabetes,H005,18,357
+DR0245,Linda Wolfe MD,Antibiotic,H008,19,155
+DR0246,Joseph Smith,Diabetes,H096,32,121
+DR0247,Linda Hopkins,Antibiotic,H089,12,239
+DR0248,Cynthia Jacobs MD,Oncology,H050,34,342
+DR0249,Lori Neal,Oncology,H059,27,235
+DR0250,Ryan Nunez,Oncology,H061,24,65
+DR0251,Colleen Davis,Pain Relief,H061,24,355
+DR0252,Charles Sanchez,Pain Relief,H021,37,414
+DR0253,Elizabeth Harris,Pain Relief,H068,7,395
+DR0254,Lisa Cunningham,Oncology,H036,33,368
+DR0255,Julia Carter,Oncology,H023,38,480
+DR0256,David Taylor,Pain Relief,H075,13,91
+DR0257,Anthony Horn,Oncology,H070,13,234
+DR0258,Theresa Coleman,Pain Relief,H018,1,75
+DR0259,Taylor Wallace,Diabetes,H052,2,212
+DR0260,Stephanie Osborne,Oncology,H017,8,122
+DR0261,Francisco Little,Diabetes,H097,33,97
+DR0262,Megan Green,Diabetes,H094,29,194
+DR0263,Alyssa Holland,Antibiotic,H072,20,184
+DR0264,Stephen Erickson,Antibiotic,H003,5,327
+DR0265,Nicholas Clark,Oncology,H018,12,172
+DR0266,Jose Rivera Jr.,Oncology,H096,2,166
+DR0267,Robert Bryan,Cardiology,H048,32,191
+DR0268,Erica Reed PhD,Cardiology,H085,28,419
+DR0269,Thomas Bailey,Cardiology,H020,1,116
+DR0270,Nicholas Rodgers,Cardiology,H033,6,108
+DR0271,Patrick Taylor,Pain Relief,H065,27,123
+DR0272,Frances Martinez,Pain Relief,H084,26,402
+DR0273,Kenneth Robinson,Diabetes,H041,3,50
+DR0274,Lisa Hays,Cardiology,H016,7,368
+DR0275,Jamie Weaver,Oncology,H044,11,365
+DR0276,Carol Smith,Diabetes,H067,9,252
+DR0277,Angela Nixon,Antibiotic,H016,9,300
+DR0278,James Friedman,Antibiotic,H075,32,241
+DR0279,Paige Curtis,Oncology,H006,12,257
+DR0280,Brent Steele,Diabetes,H100,1,280
+DR0281,Christian Young,Cardiology,H066,18,455
+DR0282,Meredith Elliott,Diabetes,H044,17,348
+DR0283,Richard Sullivan,Diabetes,H047,8,69
+DR0284,Molly Morton,Pain Relief,H066,40,444
+DR0285,Michele Harrison,Oncology,H064,25,158
+DR0286,Raymond Gray,Oncology,H057,33,477
+DR0287,Lisa Stephens,Antibiotic,H080,10,388
+DR0288,Anthony Chapman,Pain Relief,H081,5,247
+DR0289,Emily Nguyen,Cardiology,H053,17,92
+DR0290,Garrett Howard,Diabetes,H024,28,249
+DR0291,Philip Mccoy,Cardiology,H066,35,270
+DR0292,Mrs. Chelsea Mullen DDS,Antibiotic,H065,30,119
+DR0293,Daniel Garcia,Diabetes,H038,24,245
+DR0294,Wanda Edwards,Pain Relief,H041,6,316
+DR0295,Kimberly Sanders,Diabetes,H055,15,251
+DR0296,Manuel Hansen,Oncology,H038,33,225
+DR0297,Joseph Thompson,Diabetes,H039,2,438
+DR0298,Alfred Larson,Oncology,H015,27,473
+DR0299,Maria Cook,Diabetes,H016,17,324
+DR0300,Karen Bishop,Oncology,H060,12,141
+DR0301,Mario Barnes,Pain Relief,H005,13,385
+DR0302,Joshua Wang,Oncology,H043,20,130
+DR0303,Brittany Jones,Antibiotic,H038,6,-300
+DR0304,Thomas Cain,Diabetes,H020,1,441
+DR0305,Cheyenne Smith,Pain Relief,H076,11,468
+DR0306,Antonio Washington,Antibiotic,H079,1,65
+DR0307,Jonathan Johnson,Diabetes,H050,28,380
+DR0308,Crystal Mckinney,Diabetes,H049,30,99
+DR0309,Donna Daniel,Oncology,H081,34,262
+DR0310,Kyle Howard,Pain Relief,H042,10,235
+DR0311,Debra Brown,Pain Relief,H001,14,361
+DR0312,Daisy Richard,Diabetes,H004,8,406
+DR0313,James Wallace,Diabetes,H096,31,166
+DR0314,Kaitlyn Peterson,Pain Relief,H044,24,426
+DR0315,Tina Branch,Antibiotic,H042,11,444
+DR0316,Christina Stewart,Antibiotic,H063,36,89
+DR0317,Lawrence Jackson,Diabetes,H065,8,-300
+DR0318,Keith Guzman,Pain Relief,H028,39,493
+DR0319,Jean Wiggins,Cardiology,H049,20,60
+DR0320,Karen Gonzalez,Antibiotic,H064,2,460
+DR0321,Steven Gonzalez,Oncology,H073,12,134
+DR0322,Isabel Miller,Pain Relief,H008,30,461
+DR0323,Richard Munoz,Oncology,H001,7,312
+DR0324,Jacqueline Petty,Diabetes,H045,1,60
+DR0325,Mr. David James,Cardiology,H075,35,116
+DR0326,Shannon Lowe,Cardiology,H082,28,223
+DR0327,Mr. Curtis Watkins,Pain Relief,H035,13,-300
+DR0328,Jack Jenkins,Pain Relief,H012,16,310
+DR0329,Matthew Cruz,Pain Relief,H100,18,241
+DR0330,Mindy Adams,Cardiology,H066,31,489
+DR0331,Thomas Nunez,Diabetes,H078,13,123
+DR0332,Frederick Russell,Antibiotic,H045,28,168
+DR0333,Daniel Peck,Antibiotic,H026,8,467
+DR0334,Rebecca Spencer,Antibiotic,H083,39,108
+DR0335,Ryan Roth,Oncology,H039,39,459
+DR0336,Christy Marsh,Antibiotic,H071,4,399
+DR0337,Miguel Huerta,Oncology,H064,26,329
+DR0338,Michelle Orozco,Antibiotic,H024,24,170
+DR0339,Michael Wilson,Antibiotic,H035,2,164
+DR0340,Laura Fox,Diabetes,H058,15,381
+DR0341,Stephanie Patel,Cardiology,H093,18,343
+DR0342,Joseph Brooks,Antibiotic,H036,7,238
+DR0343,Wesley Graham,Pain Relief,H055,2,394
+DR0344,Jimmy Cervantes,Diabetes,H061,31,425
+DR0345,Tammy Reynolds,Oncology,H034,10,339
+DR0346,David Smith,Cardiology,H061,2,213
+DR0347,Christine Vargas,Antibiotic,H023,7,116
+DR0348,Robert Reynolds,Antibiotic,H086,33,473
+DR0349,Sarah Cooper,Antibiotic,H093,10,337
+DR0350,Diane Lambert,Pain Relief,H020,25,326
+DR0351,Robin Acosta,Diabetes,H011,11,-300
+DR0352,Christopher Mclean,Oncology,H066,15,156
+DR0353,Samuel Ortiz,Oncology,H030,40,272
+DR0354,Kimberly Sanchez,Pain Relief,H027,10,242
+DR0355,Nicole Knight,Oncology,H026,1,448
+DR0356,Ashley Johnson,Oncology,H073,23,125
+DR0357,Erica Gonzalez,Pain Relief,H081,15,145
+DR0358,James Gates,Cardiology,H005,23,104
+DR0359,Christopher Campbell,Oncology,H006,31,406
+DR0360,Benjamin Marshall,Diabetes,H021,33,450
+DR0361,Ashley Atkins,Pain Relief,H075,8,101
+DR0362,Joshua Robinson,Antibiotic,H002,34,335
+DR0363,Martha Cook,Cardiology,H006,4,357
+DR0364,Christine Green,Pain Relief,H013,7,162
+DR0365,Dr. Donald Clark,Diabetes,H005,15,431
+DR0366,Michael Contreras,Antibiotic,H004,13,254
+DR0367,Rhonda Black MD,Pain Relief,H052,5,166
+DR0368,Candace Jones,Cardiology,H058,9,136
+DR0369,Christopher Mitchell,Cardiology,H061,39,455
+DR0370,Sarah Edwards,Oncology,H055,39,177
+DR0371,Brian Simmons,Pain Relief,H015,4,243
+DR0372,Joshua Alvarado,Pain Relief,H098,16,130
+DR0373,Victoria Evans,Pain Relief,H008,18,276
+DR0374,Danny Jones,Cardiology,H001,32,187
+DR0375,Emily Velazquez,Pain Relief,H033,38,344
+DR0376,Nathan Stone,Pain Relief,H089,11,137
+DR0377,Jonathan Simpson,Diabetes,H086,4,80
+DR0378,Chloe Simmons,Pain Relief,H097,37,454
+DR0379,Jesus Johnson,Cardiology,H043,21,300
+DR0380,Heather Ward,Oncology,H036,15,443
+DR0381,James Miller,Cardiology,H081,28,51
+DR0382,Rebecca Nelson,Oncology,H014,9,299
+DR0383,Gregory Stephenson,Antibiotic,H041,16,401
+DR0384,Michael Reyes,Oncology,H088,11,214
+DR0385,Terrance Taylor,Oncology,H086,14,431
+DR0386,Scott Martinez,Oncology,H069,17,442
+DR0387,Michael Anderson,Pain Relief,H023,25,360
+DR0388,Karen Bell,Diabetes,H040,37,455
+DR0389,Monica Roth,Pain Relief,H043,40,91
+DR0390,Victoria Davis,Pain Relief,H038,26,254
+DR0391,Andrew Berg,Pain Relief,H044,17,215
+DR0392,Faith Hess,Diabetes,H080,36,425
+DR0393,Joshua Rice,Cardiology,H011,28,340
+DR0394,Chad Payne,Antibiotic,H078,10,110
+DR0395,Brett Perez,Diabetes,H066,6,202
+DR0396,Kathleen Lee,Cardiology,H058,8,83
+DR0397,Tiffany Nelson,Diabetes,H027,10,265
+DR0398,Robin Johnston,Antibiotic,H015,6,446
+DR0399,Vicki Brown,Antibiotic,H041,14,192
+DR0400,Heather Bell,Oncology,H100,32,66
+DR0401,Dawn Solis,Antibiotic,H095,3,79
+DR0402,Michael Wilson,Diabetes,H085,2,481
+DR0403,Beverly Henry,Antibiotic,H058,40,124
+DR0404,Paul Vega,Cardiology,H086,33,386
+DR0405,Patrick Warner,Oncology,H002,18,115
+DR0406,Michael Martin,Diabetes,H017,17,122
+DR0407,Kimberly Stanley,Cardiology,H078,22,136
+DR0408,Christopher Patel,Pain Relief,H038,9,186
+DR0409,Misty Silva,Antibiotic,H078,27,451
+DR0410,Julie Johnson,Diabetes,H053,16,292
+DR0411,Mark Brown,Diabetes,H016,13,419
+DR0412,Miss Kathy Knight,Diabetes,H011,12,130
+DR0413,Gilbert Lopez,Cardiology,H093,20,373
+DR0414,Ms. Alyssa Ortiz,Oncology,H013,28,56
+DR0415,Lisa Becker,Pain Relief,H060,30,392
+DR0416,Johnathan Wilson DVM,Cardiology,H052,8,454
+DR0417,Hector Carroll,Antibiotic,H076,15,394
+DR0418,Karen Clay,Antibiotic,H012,30,491
+DR0419,Bobby Pennington,Oncology,H071,29,499
+DR0420,Angela Hudson,Pain Relief,H024,4,370
+DR0421,Kim Reese,Pain Relief,H043,10,291
+DR0422,Ronald Hood,Antibiotic,H003,18,80
+DR0423,Dustin Chavez,Antibiotic,H036,35,451
+DR0424,David Bennett,Antibiotic,H011,21,396
+DR0425,Larry Perez,Diabetes,H063,27,157
+DR0426,Nicolas Boyer,Antibiotic,H036,33,147
+DR0427,William Davis,Antibiotic,H059,17,103
+DR0428,Daniel Mendoza,Diabetes,H016,35,165
+DR0429,Gregory Preston,Oncology,H073,27,142
+DR0430,Kristin Mendoza,Oncology,H086,32,282
+DR0431,Steven Parsons,Cardiology,H062,36,212
+DR0432,William Davis,Cardiology,H055,17,200
+DR0433,Amanda Duncan,Oncology,H095,25,286
+DR0434,Sheena Johnson,Pain Relief,H014,22,61
+DR0435,Darren Terry,Oncology,H036,7,289
+DR0436,Deborah Smith,Antibiotic,H016,17,241
+DR0437,Charles Khan,Diabetes,H030,18,436
+DR0438,Jessica Rojas,Diabetes,H008,40,120
+DR0439,Megan Roberts,Antibiotic,H017,10,274
+DR0440,Wendy Flores,Diabetes,H036,12,177
+DR0441,Scott Evans,Diabetes,H091,36,126
+DR0442,Jerry Anderson,Antibiotic,H089,38,264
+DR0443,William Willis,Diabetes,H022,21,387
+DR0444,Brian Brown,Pain Relief,H050,4,340
+DR0445,Denise Andrews,Diabetes,H100,39,362
+DR0446,William Cervantes,Pain Relief,H048,40,194
+DR0447,Dana Burke,Diabetes,H039,17,309
+DR0448,Erik Ramos,Pain Relief,H006,7,172
+DR0449,Lauren Hinton,Cardiology,H080,19,355
+DR0450,Andrew Fleming,Antibiotic,H076,2,237
+DR0451,Scott Estrada,Cardiology,H045,19,408
+DR0452,Mitchell Hawkins,Oncology,H073,21,468
+DR0453,Krystal Solomon,Antibiotic,H017,16,77
+DR0454,Steven Stevens,Antibiotic,H054,36,270
+DR0455,Michelle Cook,Diabetes,H057,19,133
+DR0456,Wendy Simpson,Pain Relief,H092,21,-300
+DR0457,Joshua Castillo,Antibiotic,H047,9,341
+DR0458,Mallory Johnson,Oncology,H062,10,465
+DR0459,Denise Craig,Oncology,H049,26,197
+DR0460,Jeff Smith,Antibiotic,H037,14,216
+DR0461,Donald Morrow,Pain Relief,H075,31,355
+DR0462,Jennifer Reynolds,Cardiology,H095,29,401
+DR0463,Benjamin Lewis,Oncology,H051,27,52
+DR0464,Arthur Moore PhD,Oncology,H088,11,263
+DR0465,Joseph Young,Antibiotic,H095,7,118
+DR0466,Nicholas Simpson,Diabetes,H039,32,475
+DR0467,Brian King,Cardiology,H043,11,107
+DR0468,Thomas Perez,Cardiology,H093,37,51
+DR0469,Michael Stewart,Cardiology,H093,29,82
+DR0470,John Yang,Cardiology,H051,28,428
+DR0471,Sandra Taylor,Oncology,H066,39,338
+DR0472,Jeffrey Thomas,Cardiology,H021,6,104
+DR0473,Kevin Blair,Cardiology,H076,6,484
+DR0474,James Wilson,Pain Relief,H014,26,210
+DR0475,Eric Griffin,Pain Relief,H028,15,300
+DR0476,Ruben Robinson,Antibiotic,H001,19,357
+DR0477,Joshua Swanson,Diabetes,H041,27,364
+DR0478,Jeff Miller,Diabetes,H061,31,485
+DR0479,Yolanda Gilbert,Cardiology,H075,15,74
+DR0480,David Weaver,Antibiotic,H044,9,126
+DR0481,Brittany Nelson,Pain Relief,H061,23,212
+DR0482,Ashley Schneider MD,Oncology,H032,29,387
+DR0483,Kristen Porter,Pain Relief,H063,22,355
+DR0484,Katherine Park,Diabetes,H013,30,120
+DR0485,Michael Mendoza,Pain Relief,H016,27,96
+DR0486,Savannah Smith,Pain Relief,H090,22,319
+DR0487,Michelle Duran,Diabetes,H096,25,341
+DR0488,Julie Reyes,Oncology,H089,38,161
+DR0489,Vanessa Lopez,Oncology,H079,3,200
+DR0490,Jessica Pittman,Antibiotic,H047,18,216
+DR0491,Jenna Robertson,Oncology,H078,22,338
+DR0492,Valerie Klein,Cardiology,H091,17,410
+DR0493,Grace Robles,Cardiology,H001,36,107
+DR0494,Dean Wheeler,Antibiotic,H083,11,365
+DR0495,Joseph Kline,Cardiology,H045,40,242
+DR0496,Brian Owens,Cardiology,H026,32,452
+DR0497,Mrs. Regina Craig,Antibiotic,H089,25,148
+DR0498,Katelyn Buchanan,Oncology,H099,40,267
+DR0499,Taylor Lester,Pain Relief,H026,31,310
+DR0500,Joan Todd,Pain Relief,H035,32,-300
